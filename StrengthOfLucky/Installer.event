@@ -1,0 +1,5 @@
+#include "StrengthOfLucky.lyn.event"
+
+ALIGN 4
+ItemID:
+BYTE 0x6C //Vulnerary, you can change it to what you want
