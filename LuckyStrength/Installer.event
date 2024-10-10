@@ -1,4 +1,4 @@
-#include "StrengthOfLucky.lyn.event"
+#include "LuckyStrength.lyn.event"
 
 ALIGN 4
 ItemID:
