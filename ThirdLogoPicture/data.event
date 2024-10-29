@@ -1,0 +1,11 @@
+ALIGN 4
+Img_TrdPic:
+    #incbin "Source/TrdPic.4bpp.lz"
+
+ALIGN 4
+Pal_TrdPic:
+    #incbin "Source/TrdPic.gbapal"
+	
+ALIGN 4
+Tsa_TrdPic:
+    #incbin "Source/TSA.dmp"

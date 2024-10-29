@@ -1,0 +1,9 @@
+#include "Extensions/ProcDefinitions.txt"
+
+#include "Source/TrdLogoPic.lyn.event"
+#include "data.event"
+
+PUSH
+ORG 0x591710
+POIN New_ProcScr_GameEarlyStartUI
+POP
