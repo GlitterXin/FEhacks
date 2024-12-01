@@ -1,0 +1,13 @@
+ALIGN 4
+#include "GodWings.lyn.event"
+
+//If you don't want to be restrained by bows, comment out following line
+#define EFFECT
+
+#ifdef EFFECT
+	ALIGN 4
+	#include "Effect.lyn.event"
+#endif
+
+GodWings:
+	BYTE 0x6C
