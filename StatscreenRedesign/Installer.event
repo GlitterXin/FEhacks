@@ -1,0 +1,8 @@
+ALIGN 4
+#include "Page.lyn.event"
+#include "UnitSpirite.lyn.event"
+#include "LeftPanel.lyn.event"
+#include "Display.lyn.event"
+#include "PageName.lyn.event"
+#include "Icons.lyn.event"
+#include "HelpInfo.lyn.event"
